@@ -1,0 +1,15 @@
+parameter,min,max,unit
+Hemoglobin,12.0,15.0,g/dL
+WBC,4000.0,11000.0,cells/mcL
+RBC,4.2,5.4,million/mcL
+Platelets,150000.0,450000.0,cells/mcL
+Hematocrit,36.0,46.0,%
+MCV,80.0,100.0,fL
+MCH,27.0,33.0,pg
+MCHC,32.0,36.0,g/dL
+RDW,11.5,14.5,%
+Neutrophils,40.0,70.0,%
+Lymphocytes,20.0,40.0,%
+Monocytes,2.0,8.0,%
+Eosinophils,1.0,4.0,%
+Basophils,0.0,1.0,%

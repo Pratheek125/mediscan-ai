@@ -1,0 +1,12 @@
+venv/
+.venv*/
+__pycache__/
+*.pyc
+outputs/*
+patient_data/*.db
+ml_engine/artifacts/*.json
+PyWhatKit_DB.txt
+reports/
+*.mp3
+.env
+.DS_Store

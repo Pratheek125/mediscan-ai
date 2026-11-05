@@ -1,0 +1,7 @@
+parameter,min,max,unit
+Total Cholesterol,125,200,mg/dL
+Triglycerides,0,150,mg/dL
+HDL,40,60,mg/dL
+LDL,0,100,mg/dL
+VLDL,5,40,mg/dL
+Cholesterol Ratio,0,5,ratio

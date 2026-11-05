@@ -1,0 +1,6 @@
+parameter,min,max,unit
+TSH,0.4,4.0,uIU/mL
+T3,80.0,200.0,ng/dL
+T4,5.0,12.0,ug/dL
+Free T3,2.3,4.2,pg/mL
+Free T4,0.8,1.8,ng/dL

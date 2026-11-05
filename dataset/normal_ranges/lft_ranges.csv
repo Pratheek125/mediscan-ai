@@ -1,0 +1,9 @@
+parameter,min,max,unit
+Bilirubin Total,0.2,1.2,mg/dL
+Bilirubin Direct,0.0,0.3,mg/dL
+SGOT,10.0,40.0,U/L
+SGPT,7.0,56.0,U/L
+ALP,44.0,147.0,U/L
+Albumin,3.5,5.0,g/dL
+Globulin,2.0,3.5,g/dL
+A/G Ratio,1.0,2.5,ratio

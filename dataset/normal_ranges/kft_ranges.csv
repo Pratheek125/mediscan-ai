@@ -1,0 +1,9 @@
+parameter,min,max,unit
+Creatinine,0.6,1.2,mg/dL
+Blood Urea,7.0,20.0,mg/dL
+Uric Acid,3.5,7.2,mg/dL
+eGFR,90.0,120.0,mL/min
+BUN,7.0,20.0,mg/dL
+Sodium,135.0,145.0,mEq/L
+Potassium,3.5,5.0,mEq/L
+Chloride,96.0,106.0,mEq/L
